@@ -38,7 +38,7 @@
                 <TextView
                     android:id="@+id/tv1"
                     android:layout_column="1"
-                    android:text="DTS 5 Demo Account"
+                    android:text="DTS 5 Demo AAAAAC"
                     android:textSize="16sp"
                     android:textStyle="bold"
                     android:textColor="#000000"
