@@ -87,7 +87,7 @@
             android:id="@+id/info_text"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="hello" />
+            android:text="hello1 2mmmm" />
 
     </android.support.v7.widget.CardView>
 
